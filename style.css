@@ -52,12 +52,12 @@ body{
         color: rgb(255, 0, 98);
         font-size: 14px;
         top: 20px;
-        left: 5px;
+        left: 10px;
     }
     i + span{
         position: absolute;
         top: 38px;
-        left: 6px;
+        left: 11px;
     }
     p{
         font-size: 13px;
