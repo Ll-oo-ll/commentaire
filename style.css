@@ -13,8 +13,7 @@ body{
     align-items: center;
     user-select: none;
     .commentaire{
-        background: black;
-        /* padding: 15px; */
+        background: #000;
         width: 95%;
         border-radius: 5px;
         min-height: 70px;
